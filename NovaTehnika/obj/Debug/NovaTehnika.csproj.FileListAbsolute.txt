@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.Form1.resources
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.FormPorudzbine.resources
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.Properties.Resources.resources
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.exe.config
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.exe
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\bin\Debug\NovaTehnika.pdb
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.exe
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.pdb
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.FormDetaljiPorudzbine.resources
+C:\Users\User\source\repos\NovaTehnika\NovaTehnika\obj\Debug\NovaTehnika.Proizvodi.resources
